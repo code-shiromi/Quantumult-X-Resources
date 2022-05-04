@@ -1,0 +1,25 @@
+# Filter list for switching Amazon Prime Video service region
+USER-AGENT,InstantVideo.US*,PrimeVideo
+USER-AGENT,Prime%20Video*,PrimeVideo
+HOST,avodmp4s3ww-a.akamaihd.net,PrimeVideo
+HOST,d1v5ir2lpwr8os.cloudfront.net,PrimeVideo
+HOST,d1xfray82862hr.cloudfront.net,PrimeVideo
+HOST,d22qjgkvxw22r6.cloudfront.net,PrimeVideo
+HOST,d25xi40x97liuc.cloudfront.net,PrimeVideo
+HOST,d27xxe7juh1us6.cloudfront.net,PrimeVideo
+HOST,d3196yreox78o9.cloudfront.net,PrimeVideo
+HOST,dmqdd6hw24ucf.cloudfront.net,PrimeVideo
+HOST,ktpx.amazon.com,PrimeVideo
+HOST,atv-ps.amazon.com,PrimeVideo
+HOST,fls-na.amazon.com,PrimeVideo
+HOST-keyword,avoddashs,PrimeVideo
+HOST-SUFFIX,pv-cdn.net,PrimeVideo
+HOST-SUFFIX,aiv-cdn.net,PrimeVideo
+HOST-SUFFIX,aiv-delivery.net,PrimeVideo
+HOST-SUFFIX,amazonaws.com,PrimeVideo
+HOST-SUFFIX,amazonvideo.com,PrimeVideo
+HOST-SUFFIX,llnwd.net,PrimeVideo
+HOST-SUFFIX,aiv-delivery.net,PrimeVideo
+HOST-SUFFIX,media-amazon.com,PrimeVideo
+HOST-SUFFIX,primevideo.com,PrimeVideo
+HOST-SUFFIX,media-amazon.com,PrimeVideo

@@ -1,0 +1,32 @@
+### Tokyo
+shadowsocks=tokyo-01.example.com:8388, method=aes-128-ctr, password=password, ssr-protocol=auth_sha1_v4, fast-open=false, udp-relay=false, tag=TOKYO-01 (NTT)
+shadowsocks=tokyo-02.example.com:8388, method=aes-128-ctr, password=password, ssr-protocol=auth_sha1_v4, fast-open=false, udp-relay=false, tag=TOKYO-02 (KDDI)
+shadowsocks=tokyo-03.example.com:8388, method=aes-128-ctr, password=password, ssr-protocol=auth_sha1_v4, obfs=http_simple, fast-open=false, udp-relay=false, tag=TOKYO-03 (Softbank)
+### Singapore
+shadowsocks=sg-01.example.com:8388, method=aes-128-ctr, password=password, ssr-protocol=auth_sha1_v4, fast-open=false, udp-relay=false, tag=SG-01
+shadowsocks=sg-02.example.com:8388, method=aes-128-ctr, password=password, ssr-protocol=auth_sha1_v4, fast-open=false, udp-relay=false, tag=SG-02
+shadowsocks=sg-03.example.com:8388, method=aes-128-ctr, password=password, ssr-protocol=auth_sha1_v4, obfs=http_simpl, fast-open=false, udp-relay=false, tag=SG-03
+### Hong Kong
+shadowsocks=hk-01.example.com:8388, method=aes-128-ctr, password=password, ssr-protocol=auth_sha1_v4, fast-open=false, udp-relay=false, tag=HK-01 (HKBN)
+shadowsocks=hk-02.example.com:8388, method=aes-128-ctr, password=password, ssr-protocol=auth_sha1_v4, fast-open=false, udp-relay=false, tag=HK-02 (HKT)
+shadowsocks=hk-03.example.com:8388, method=aes-128-ctr, password=password, ssr-protocol=auth_sha1_v4, obfs=http_simpl, fast-open=false, udp-relay=false, tag=HK-03 (WTT HK)
+### Taiwan
+shadowsocks=tw-01.example.com:8388, method=aes-128-ctr, password=password, ssr-protocol=auth_sha1_v4, fast-open=false, udp-relay=false, tag=TW-01 (HiNet)
+shadowsocks=tw-02.example.com:8388, method=aes-128-ctr, password=password, ssr-protocol=auth_sha1_v4, fast-open=false, udp-relay=false, tag=TW-02 (SoNet)
+shadowsocks=tw-03.example.com:8388, method=aes-128-ctr, password=password, ssr-protocol=auth_sha1_v4, obfs=http_simpl, fast-open=false, udp-relay=false, tag=TW-03 (FetNet)
+### Korea
+shadowsocks=kr-01.example.com:8388, method=aes-128-ctr, password=password, ssr-protocol=auth_sha1_v4, fast-open=false, udp-relay=false, tag=KR-01
+shadowsocks=kr-02.example.com:8388, method=aes-128-ctr, password=password, ssr-protocol=auth_sha1_v4, fast-open=false, udp-relay=false, tag=KR-02
+shadowsocks=kr-03.example.com:8388, method=aes-128-ctr, password=password, ssr-protocol=auth_sha1_v4, obfs=http_simpl, fast-open=false, udp-relay=false, tag=KR-03
+### America
+shadowsocks=us-01.example.com:8388, method=aes-128-ctr, password=password, ssr-protocol=auth_sha1_v4, fast-open=false, udp-relay=false, tag=US-01
+shadowsocks=us-02.example.com:8388, method=aes-128-ctr, password=password, ssr-protocol=auth_sha1_v4, fast-open=false, udp-relay=false, tag=US-02
+shadowsocks=us-03.example.com:8388, method=aes-128-ctr, password=password, ssr-protocol=auth_sha1_v4, obfs=http_simple, fast-open=false, udp-relay=false, tag=US-03
+### China
+shadowsocks=cn-01.example.com:8388, method=aes-128-ctr, password=password, ssr-protocol=auth_sha1_v4, fast-open=false, udp-relay=false, tag=CN-01
+shadowsocks=cn-02.example.com:8388, method=aes-128-ctr, password=password, ssr-protocol=auth_sha1_v4, fast-open=false, udp-relay=false, tag=CN-02
+shadowsocks=cn-03.example.com:8388, method=aes-128-ctr, password=password, ssr-protocol=auth_sha1_v4, obfs=http_simple, fast-open=false, udp-relay=false, tag=CN-03
+### Russia
+shadowsocks=ru-01.example.com:8388, method=aes-128-ctr, password=password, ssr-protocol=auth_sha1_v4, fast-open=false, udp-relay=false, tag=RU-01
+shadowsocks=ru-02.example.com:8388, method=aes-128-ctr, password=password, ssr-protocol=auth_sha1_v4, fast-open=false, udp-relay=false, tag=RU-02
+shadowsocks=ru-03.example.com:8388, method=aes-128-ctr, password=password, ssr-protocol=auth_sha1_v4, obfs=http_simple, fast-open=false, udp-relay=false, tag=RU-03

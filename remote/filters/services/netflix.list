@@ -1,0 +1,24 @@
+# Filter list for switching Netflix service region
+USER-AGENT,Argo*,Netflix
+HOST-KEYWORD,netflix,Netflix
+HOST-KEYWORD,nflx,Netflix
+HOST-KEYWORD,dualstack.apiproxy-,Netflix
+HOST-KEYWORD,dualstack.ichnaea-web-,Netflix
+HOST-SUFFIX,netflix.com.edgesuite.net,Netflix
+HOST-SUFFIX,netflix.com,Netflix
+HOST-SUFFIX,netflix.net,Netflix
+HOST-SUFFIX,nflxext.com,Netflix
+HOST-SUFFIX,nflximg.com,Netflix
+HOST-SUFFIX,nflximg.net,Netflix
+HOST-SUFFIX,nflxso.net,Netflix
+HOST-SUFFIX,nflxvideo.net,Netflix
+HOST-SUFFIX,netflixdnstest0.com,Netflix
+HOST-SUFFIX,netflixdnstest1.com,Netflix
+HOST-SUFFIX,netflixdnstest2.com,Netflix
+HOST-SUFFIX,netflixdnstest3.com,Netflix
+HOST-SUFFIX,netflixdnstest4.com,Netflix
+HOST-SUFFIX,netflixdnstest5.com,Netflix
+HOST-SUFFIX,netflixdnstest6.com,Netflix
+HOST-SUFFIX,netflixdnstest7.com,Netflix
+HOST-SUFFIX,netflixdnstest8.com,Netflix
+HOST-SUFFIX,netflixdnstest9.com,Netflix

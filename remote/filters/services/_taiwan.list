@@ -1,0 +1,32 @@
+# Filter list for redirect services region to Taiwan proxy
+# gamer.com.tw
+HOST-SUFFIX,bahamut.com.tw,TWServer
+HOST-SUFFIX,gamer.com.tw,TWServer
+HOST,gamer-cds.cdn.hinet.net,TWServer
+HOST,gamer2-cds.cdn.hinet.net,TWServer
+
+# iQiyi
+USER-AGENT,iQIYI*,iQiyi-Intl
+USER-AGENT,QIYIVideo*,iQiyi-Intl
+USER-AGENT,QYPlayer*,iQiyi-Intl
+USER-AGENT,QTP*,iQiyi-Intl
+HOST,intel-cache.m.iqiyi.com,iQiyi-Intl
+HOST,intel-cache.video.iqiyi.com,iQiyi-Intl
+HOST,intl-rcd.iqiyi.com,iQiyi-Intl
+HOST,intl-subscription.iqiyi.com,iQiyi-Intl
+HOST-SUFFIX,inter.iqiyi.com,iQiyi-Intl
+HOST-SUFFIX,inter.ptqy.gitv.tv,iQiyi-Intl
+HOST-SUFFIX,intl.iqiyi.com,iQiyi-Intl
+HOST-SUFFIX,iq.com,iQiyi-Intl
+HOST,intl-rcd.iqiyi.com,iQiyi-Intl
+HOST,intl-subscription.iqiyi.com,iQiyi-Intl
+
+# KKBOX TW
+HOST-SUFFIX,kkbox.com.tw,TWServer
+HOST-SUFFIX,kktv.com.tw,TWServer
+
+# Line TV
+HOST-SUFFIX,linetv.tw,TWServer
+
+# Others
+HOST-SUFFIX,skyking.com.tw,TWServer

@@ -1,0 +1,18 @@
+# Fast
+HOST-SUFFIX,fast.com,Speedtest
+
+# nperf
+HOST-SUFFIX,nperf.com,Speedtest
+
+# speedtest.io
+HOST-SUFFIX,www.speed.io,Speedtest
+
+# Speedtest by Ookla
+USER-AGENT,SpeedTest*,Speedtest
+HOST-KEYWORD,speedtest,Speedtest
+HOST-SUFFIX,ooklaserver.net,Speedtest
+HOST-SUFFIX,speed.dler.io,Speedtest
+HOST-SUFFIX,speedtestcustom.com,Speedtest
+
+# Speed Test by Cloudflare
+HOST-SUFFIX,speed.cloudflare.com,Speedtest

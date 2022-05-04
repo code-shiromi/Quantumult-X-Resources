@@ -1,0 +1,210 @@
+### Shiromi's Tracker List for Quantumult X
+# A
+### Apple (OEM)
+HOST,books-analytics-events.news.apple-dns.net,AdBlock
+HOST,books-analytics-events.apple.com,AdBlock
+HOST,stocks-analytics-events.apple.com,AdBlock
+HOST,stocks-analytics-events.news.apple-dns.net,AdBlock
+
+### Amazon
+HOST-SUFFIX,analyticsengine.s3.amazonaws.com,AdBlock
+
+# B
+### Bilibili
+HOST,dataflow.biliapi.com,AdBlock
+HOST,data.bilibili.com,AdBlock
+
+### Bugsnag (Error Tracker)
+HOST-SUFFIX,notify.bugsnag.com,AdBlock
+HOST-SUFFIX,sessions.bugsnag.com,AdBlock
+HOST-SUFFIX,api.bugsnag.com,AdBlock
+HOST-SUFFIX,app.bugsnag.com,AdBlock
+
+
+# C
+
+
+# D
+
+
+# E
+
+
+# F
+### Facebook (Social Media Tracker)
+HOST-SUFFIX,pixel.facebook.com,AdBlock
+HOST-SUFFIX,analytics.facebook.com,AdBlock
+HOST-SUFFIX,an.facebook.com,AdBlock
+
+### FreshMarketer
+HOST-SUFFIX,freshmarketer.com,AdBlock
+
+
+# G
+
+
+### Google
+HOST-SUFFIX,google-analytics.com,AdBlock
+;HOST,ssl.google-analytics.com,AdBlock
+
+
+# H
+### Hotjar
+HOST-SUFFIX,hotjar.com,AdBlock
+;HOST-SUFFIX,api-hotjar.com,AdBlock
+;HOST-SUFFIX,hotjar-analytics.com,AdBlock
+;HOST-SUFFIX,static.hotjar.com,AdBlock
+;HOST,hotjar.com,AdBlock
+
+### Huawei (OEM)
+HOST-SUFFIX,metrics.data.hicloud.com,AdBlock
+HOST-SUFFIX,metrics1.data.hicloud.com,AdBlock
+HOST-SUFFIX,metrics2.data.hicloud.com,AdBlock
+HOST-SUFFIX,metrics3.data.hicloud.com,AdBlock
+HOST-SUFFIX,metrics4.data.hicloud.com,AdBlock
+HOST-SUFFIX,metrics5.data.hicloud.com,AdBlock
+HOST-SUFFIX,logservice.hicloud.com,AdBlock
+HOST-SUFFIX,logservice1.hicloud.com,AdBlock
+HOST-SUFFIX,metrics-dra.dt.hicloud.com,AdBlock
+HOST-SUFFIX,logbak.hicloud.com,AdBlock
+
+
+# I
+
+
+# J
+
+
+# K
+
+
+# L
+### LinkedIn (Social Media Tracker)
+HOST-SUFFIX,analytics.pointdrive.linkedin.com,AdBlock
+
+### LuckyOrange
+HOST-SUFFIX,luckyorange.net,AdBlock
+HOST,luckyorange.com,AdBlock
+HOST,cdn.luckyorange.com,AdBlock
+HOST,w1.luckyorange.com,AdBlock
+
+
+# M
+### Microsoft
+HOST-SUFFIX,analytics.msn.com,AdBlock
+HOST-SUFFIX,analytics.msnbc.msn.com,AdBlock
+HOST-SUFFIX,browser.events.data.msn.com,AdBlock
+HOST-SUFFIX,target.microsoft.com,AdBlock
+
+### MouseFlow
+HOST-SUFFIX,a.mouseflow.com,AdBlock
+HOST,mouseflow.com,AdBlock
+
+
+# N
+
+
+# O
+### OnePlus (OEM)
+HOST-SUFFIX,click.oneplus.cn,AdBlock
+HOST-SUFFIX,click.oneplus.com,AdBlock
+HOST-SUFFIX,open.oneplus.net,AdBlock
+
+
+# P
+### Pinterest (Social Media Tracker)
+HOST-SUFFIX,log.pinterest.com,AdBlock
+HOST-SUFFIX,analytics.pinterest.com,AdBlock
+HOST-SUFFIX,trk.pinterest.com,AdBlock
+
+
+# Q
+
+
+# R
+### Reddit (Social Media Tracker)
+HOST-SUFFIX,d.reddit.com,AdBlock
+HOST-SUFFIX,events.redditmedia.com,AdBlock
+
+
+# S
+### Samsung (OEM)
+HOST-SUFFIX,smetrics.samsung.com,AdBlock
+HOST-SUFFIX,nmetrics.samsung.com,AdBlock
+HOST-SUFFIX,analytics.samsungknox.com,AdBlock
+HOST-SUFFIX,bigdata.ssp.samsung.com,AdBlock
+
+### Sentry (Error Tracker)
+HOST-SUFFIX,browser.sentry-cdn.com,AdBlock
+HOST-SUFFIX,app.getsentry.com,AdBlock
+
+### Spotify
+HOST-SUFFIX,analytics.spotify.com,REJECT
+HOST-SUFFIX,log.spotify.com,REJECT
+
+
+# T
+### TenCloud
+HOST-SUFFIX,jielou.net,AdBlock
+HOST-SUFFIX,lnk0.com,AdBlock
+HOST-SUFFIX,lnk8.cn,AdBlock
+HOST-SUFFIX,doudouknot.com,AdBlock
+HOST-SUFFIX,3edc.cn,AdBlock
+HOST-SUFFIX,udrig.com,AdBlock
+HOST-SUFFIX,cpatrk.net,AdBlock
+HOST-SUFFIX,xdrig.com,AdBlock
+HOST-SUFFIX,id1.cn,AdBlock
+HOST-SUFFIX,mpush.cn,AdBlock
+HOST-SUFFIX,tddmp.com ,AdBlock
+HOST-SUFFIX,tenddata.net,AdBlock
+HOST-SUFFIX,tenddata.com,AdBlock
+HOST-SUFFIX,tenddata.cn,AdBlock
+HOST-SUFFIX,tenddata.com.cn,AdBlock
+HOST-SUFFIX,talkinggame.com,AdBlock
+HOST-SUFFIX,edutalkingdata.cn,AdBlock
+HOST-SUFFIX,edutalkingdata.com,AdBlock
+HOST-SUFFIX,myzhongguojie.cn,AdBlock
+HOST-SUFFIX,appcpa.net,AdBlock
+HOST-SUFFIX,tengyuncloud.cn,AdBlock
+HOST-SUFFIX,tendcloud.com,AdBlock
+HOST-SUFFIX,xuefenxi.com,AdBlock
+
+### TikTok (Social Media Tracker)
+HOST-SUFFIX,analytics.tiktok.com,AdBlock
+HOST-SUFFIX,analytics-sg.tiktok.com,AdBlock
+
+### Twitter (Social Media Tracker)
+HOST-SUFFIX,advertising.twitter.com,AdBlock
+
+
+# U
+
+
+# V
+
+
+# W
+### WordPress
+HOST-SUFFIX,stats.wp.com,AdBlock
+
+
+# X
+### Xiaomi (OEM)
+HOST-SUFFIX,data.mistat.xiaomi.com,AdBlock
+HOST-SUFFIX,data.mistat.intl.xiaomi.com,AdBlock
+HOST-SUFFIX,data.mistat.india.xiaomi.com,AdBlock
+HOST-SUFFIX,data.mistat.rus.xiaomi.com,AdBlock
+HOST-SUFFIX,tracking.miui.com,AdBlock
+HOST-SUFFIX,tracking.miui.com,AdBlock
+HOST-SUFFIX,tracking.intl.miui.com,AdBlock
+HOST-SUFFIX,tracking.india.miui.com,AdBlock
+HOST-SUFFIX,tracking.rus.miui.com,AdBlock
+
+
+# Y
+### Yandex
+HOST-SUFFIX,analytics.mobile.yandex.net,AdBlock
+
+
+# Z
+

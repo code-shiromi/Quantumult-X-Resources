@@ -1,0 +1,443 @@
+### Shiromi's Ad List for Quantumult X
+# A
+### adjust
+HOST-SUFFIX,adjust.com,AdBlock
+HOST-SUFFIX,adjust.io,AdBlock
+
+### Amazon
+HOST-SUFFIX,amazonaax.com,AdBlock
+HOST-SUFFIX,amazonclix.com,AdBlock
+HOST-SUFFIX,assoc-amazon.com,AdBlock
+HOST-SUFFIX,adtago.s3.amazonaws.com,AdBlock
+HOST-SUFFIX,advice-ads.s3.amazonaws.com,AdBlock
+HOST-SUFFIX,advertising-api-eu.amazon.com,AdBlock
+HOST,affiliationjs.s3.amazonaws.com,AdBlock
+
+### Alibaba
+HOST,acs4baichuan.m.taobao.com,AdBlock
+HOST,adash.m.taobao.com,AdBlock
+HOST,adash.man.aliyuncs.com,AdBlock
+HOST,adashbc.ut.taobao.com,AdBlock
+HOST,adash-c.ut.taobao.com,AdBlock
+HOST,adashx.m.taobao.com,AdBlock
+HOST,adashx4yt.m.taobao.com,AdBlock
+HOST,adashxgc.ut.taobao.com,AdBlock
+HOST,h-adashx.ut.taobao.com,AdBlock
+HOST,nbsdk-baichuan.alicdn.com,AdBlock
+HOST,optimus-ads.amap.com,AdBlock
+HOST,optimus-ads.amap.com.w.alikunlun.com,AdBlock
+HOST,tunion-api.m.taobao.com,AdBlock
+
+### Apple Ads (OEM)
+USER-AGENT,com.apple.AppStore.ProductPageExtension*,AdBlock
+HOST-SUFFIX,ads.internal.unity3d.com,AdBlock
+HOST-SUFFIX,ads.prd.ie.internal.unity3d.com,AdBlock
+HOST-SUFFIX,unityads.unity3d.com,AdBlock
+HOST,metrics.apple.com,AdBlock
+HOST,securemetrics.apple.com,AdBlock
+HOST,supportmetrics.apple.com,AdBlock
+HOST,metrics.icloud.com,AdBlock
+HOST-SUFFIX,icloudads.net,AdBlock
+HOST,metrics.mzstatic.com,AdBlock
+HOST,dzc-metrics.mzstatic.com,AdBlock
+HOST,iadsdk.apple.com,AdBlock
+
+### Apple OTA (OEM)
+USER-AGENT,MobileAsset*,DIRECT
+HOST,gdmf.apple.com,AdBlock
+HOST,gdmf.apple.com.akadns.net,AdBlock
+HOST,mesu.apple.com,AdBlock
+HOST,mesu-cdn.apple.com.akadns.net,AdBlock
+HOST,mesu-cdn.origin-apple.com.akadns.net,AdBlock
+HOST,mesu.g.aaplimg.com,AdBlock
+HOST,appldnld.apple.com,AdBlock
+HOST,appldnld.apple.com.akadns.net,AdBlock
+
+# Autohome
+HOST,adproxy.autohome.com.cn,AdBlock
+HOST,rd.autohome.com.cn,AdBlock
+HOST,al.autohome.com.cn,AdBlock
+HOST,applogapi.autohome.com.cn,AdBlock
+
+
+# B
+### Baidu
+HOST-SUFFIX,baidustatic.com,AdBlock
+HOST-SUFFIX,cpro.baidu.com,AdBlock
+HOST-SUFFIX,pos.baidu.com,AdBlock
+HOST,afd.baidu.com,AdBlock
+HOST,als.baidu.com,AdBlock
+HOST,duclick.baidu.com,AdBlock
+HOST,em.baidu.com,AdBlock
+HOST,hm.baidu.com,AdBlock
+HOST,hmma.baidu.com,AdBlock
+HOST,mobads.baidu.com,AdBlock
+HOST,mobads-logs.baidu.com,AdBlock
+HOST,nsclick.baidu.com,AdBlock
+
+### Bilibili
+HOST,cm.bilibili.com,AdBlock
+HOST,thirdparty.biliapi.com,AdBlock
+
+### ByteDance
+HOST,ad.toutiao.com,AdBlock
+HOST,applog.musical.ly,AdBlock
+HOST,track.toutiao.com,AdBlock
+HOST,xlog.snssdk.com,AdBlock
+HOST,xlog-va.byteoversea.com,AdBlock
+
+
+# C
+
+
+# D
+
+
+# E
+
+
+# F
+### Facebook
+HOST-SUFFIX,staticxx.facebook.com,AdBlock
+HOST-SUFFIX,ads.facebook.com,AdBlock
+
+### FastClick
+HOST-SUFFIX,fastclick.com,AdBlock
+HOST-SUFFIX,fastclick.net,AdBlock
+
+
+# G
+### Google
+HOST-SUFFIX,admob.com,AdBlock
+HOST-SUFFIX,doubleclick.net,AdBlock
+HOST-SUFFIX,ads.youtube.com,AdBlock
+HOST-SUFFIX,youtube.cleverads.vn,AdBlock
+HOST-SUFFIX,googleadservices.com,AdBlock
+HOST-SUFFIX,googleadsserving.cn,AdBlock
+HOST-SUFFIX,googlesyndication.com,AdBlock
+HOST-SUFFIX,googletagmanager.com,AdBlock
+HOST-SUFFIX,googletagservices.com,AdBlock
+HOST,adservice.google.com,AdBlock
+HOST,mtalk.google.com,AdBlock
+HOST,pagead2.googleadservices.com,AdBlock
+HOST,suggestqueries.google.com,AdBlock
+
+
+# H
+### Hunan TV
+HOST-SUFFIX,da.mgtv.com,AdBlock
+HOST-SUFFIX,da.hunantv.com,AdBlock
+HOST-SUFFIX,log.hunantv.com,AdBlock
+HOST,log.v2.hunantv.com,AdBlock
+HOST,v2.log.hunantv.com,AdBlock
+
+
+# I
+### Ifeng
+HOST-SUFFIX,deliver.ifeng.com,AdBlock
+HOST,api.newad.ifeng.com,AdBlock
+HOST,ifengad.3g.ifeng.com,AdBlock
+
+### Inmobi
+HOST-SUFFIX,inmobi.cn,AdBlock
+HOST-SUFFIX,inmobi.com,AdBlock
+HOST-SUFFIX,inmobi.net,AdBlock
+HOST-SUFFIX,inmobicdn.cn,AdBlock
+HOST-SUFFIX,inmobicdn.net,AdBlock
+
+### iQiyi
+HOST-SUFFIX,cupid.iqiyi.com,AdBlock
+HOST,msg.71.am,AdBlock
+HOST-SUFFIX,ifacelog.iqiyi.com,AdBlock
+HOST-SUFFIX,mbdlog.iqiyi.com,AdBlock
+HOST,static-s.iqiyi.com,AdBlock
+IP-CIDR,101.227.97.240/32,AdBlock
+IP-CIDR,101.227.200.11/32,AdBlock
+IP-CIDR,101.227.200.28/32,AdBlock
+IP-CIDR,124.192.153.42/32,AdBlock
+
+
+# J
+
+
+# K
+### KingSoft
+HOST,ad-stat.ksosoft.com,AdBlock
+HOST,img.auction-ads.wpscdn.cn,AdBlock
+HOST,counter.kingsoft.com,AdBlock
+HOST,counter.ksosoft.com,AdBlock
+HOST,minfo.wps.cn,AdBlock
+HOST,mobad.ijinshan.com,AdBlock
+HOST,ups.ksmobile.net,AdBlock
+HOST,ws.ksmobile.net,AdBlock
+
+### KuGou and Kuwo
+HOST,adserviceretry.kugou.com,AdBlock
+HOST,ads.service.kugou.com,AdBlock
+HOST,adsfile.bssdlbig.kugou.com,AdBlock
+HOST,g.koowo.com,AdBlock
+HOST,kgmobilestat.kugou.com,AdBlock
+HOST,kgmobilestatbak.kugou.com,AdBlock
+HOST,mobilelog.kugou.com,AdBlock
+HOST,mobilead.kuwo.cn,AdBlock
+HOST,rich.kuwo.cn,AdBlock
+
+
+# L
+### LeTV
+HOST-SUFFIX,webp2p.letv.com,AdBlock
+HOST,ark.letv.com,AdBlock
+HOST,emma-414870e223.huodonghezi.com,AdBlock
+HOST,g3.letv.com,AdBlock
+HOST,n.mark.letv.com,AdBlock
+
+### Line
+HOST-SUFFIX,torimochi.line-apps.com,REJECT
+HOST-SUFFIX,uts-front.line-apps.com,REJECT
+HOST-SUFFIX,tr.line.me,REJECT
+HOST-SUFFIX,itad.linetv.tw,REJECT
+
+### LinkedIn
+HOST-SUFFIX,ads.linkedin.com,AdBlock
+
+
+# M
+### Media.net
+HOST,media.net,AdBlock
+HOST,adservetx.media.net,AdBlock
+HOST,static.media.net,AdBlock
+
+### Microsoft
+HOST-SUFFIX,adevents.msn.com,AdBlock
+HOST-SUFFIX,ads.msn.com,AdBlock
+HOST-SUFFIX,ads1.msn.com,AdBlock
+HOST-SUFFIX,ads2.msn.com,AdBlock
+HOST-SUFFIX,adsyndication.msn.com,AdBlock
+HOST-SUFFIX,c.msn.com,AdBlock
+HOST-SUFFIX,mobileads.msn.com,AdBlock
+HOST-SUFFIX,popup.msn.com,AdBlock
+HOST-SUFFIX,r.msn.com,AdBlock
+HOST-SUFFIX,rads.msn.com,AdBlock
+HOST-SUFFIX,rmads.msn.com,AdBlock
+HOST-SUFFIX,sam.msn.com,AdBlock
+HOST-SUFFIX,srtb.msn.com,AdBlock
+HOST-SUFFIX,udc.msn.com,AdBlock
+HOST-SUFFIX,advertising.microsoft.com,AdBlock
+HOST-SUFFIX,bingads.microsoft.com,AdBlock
+HOST-SUFFIX,telemetry.microsoft.com,AdBlock
+
+
+# N
+### NetEase
+HOST,ad.bn.netease.com,AdBlock
+HOST,ad.yixin.im,AdBlock
+HOST,admusicpic.music.126.net,AdBlock
+HOST,gorgon.youdao.com,AdBlock
+HOST,iadmat.nosdn.127.net,AdBlock
+HOST,iadmusicmat.music.126.net,AdBlock
+HOST,iadmusicmatvideo.music.126.net,AdBlock
+HOST,impservice.dictapp.youdao.com,AdBlock
+HOST,impservice.youdao.com,AdBlock
+HOST,log.yex.youdao.com,AdBlock
+HOST,log-yex.youdao.com,AdBlock
+HOST,n.3g.163.com,AdBlock
+HOST,nex.163.com,AdBlock
+HOST,yt-adp.nosdn.127.net,AdBlock
+HOST,yt-adp.ws.126.net,AdBlock
+
+### Niconico
+HOST-SUFFIX,api.nicovideo.com,AdBlock
+
+# O
+### OnePlus (OEM)
+HOST-SUFFIX,analytics.oneplus.cn,AdBlock
+
+
+# P
+### PCOnline
+HOST,ad-analysis.pconline.com.cn,AdBlock
+HOST,iad0ssl.pcauto.com.cn,AdBlock
+HOST,iad0ssl.pconline.com.cn,AdBlock
+HOST,imgad0.pcauto.com.cn,AdBlock
+HOST,imgad0.pconline.com.cn,AdBlock
+HOST,ivy.pchouse.com.cn,AdBlock
+
+### Pinterest
+HOST-SUFFIX,ads.pinterest.com,AdBlock
+HOST-SUFFIX,ads-dev.pinterest.com,AdBlock
+HOST-SUFFIX,widgets.pinterest.com,AdBlock
+
+### PPTV
+HOST,ads.aplus.pptv.com,AdBlock
+HOST,ads.aplusapi.pptv.com,AdBlock
+HOST,asimgs.pplive.cn,AdBlock
+HOST,de.as.pptv.com,AdBlock
+
+
+# Q
+
+
+# R
+### Reddit
+HOST-SUFFIX,rereddit.com,AdBlock
+HOST-SUFFIX,ads.reddit.com,AdBlock
+
+
+# S
+### Samsung (OEM)
+HOST-SUFFIX,samsung-com.112.2o7.net,AdBlock
+HOST-SUFFIX,analytics-api.samsunghealthcn.com,AdBlock
+HOST-SUFFIX,ad.samsungadhub.com,AdBlock
+HOST-SUFFIX,samsungadhub.com,AdBlock
+HOST-SUFFIX,samsungads.com,AdBlock
+HOST-SUFFIX,business.samsungusa.com,AdBlock
+HOST-SUFFIX,config.samsungads.com,AdBlock
+
+### Sina
+HOST-SUFFIX,beacon.sina.com.cn,AdBlock
+HOST,adimg.vue.weibo.com,AdBlock
+HOST,u1.img.mobile.sina.cn,AdBlock
+HOST,sax.sina.com.cn,AdBlock
+HOST,saxs.sina.com.cn,AdBlock
+HOST,saxn.sina.com.cn,AdBlock
+
+### Sohu
+HOST-SUFFIX,ad.sohu.com,AdBlock
+HOST-SUFFIX,ads.sohu.com,AdBlock
+HOST-SUFFIX,aty.sohu.com,AdBlock
+HOST,imp.optaim.com,AdBlock
+HOST,v2.reachmax.cn,AdBlock
+HOST,track.sohu.com,AdBlock
+HOST,hui.sohu.com,AdBlock
+
+### Spotify
+HOST-SUFFIX,adeventtracker.spotify.com,REJECT
+HOST-SUFFIX,pixel-static.spotify.com,REJECT
+HOST-SUFFIX,pixel.spotify.com,REJECT
+
+
+# T
+### TikTok
+HOST-SUFFIX,ads.tiktok.com,AdBlock
+HOST-SUFFIX,ads-sg.tiktok.com,AdBlock
+
+### Tencent
+USER-AGENT,TencentConnect*,AdBlock
+HOST-SUFFIX,3g.qq.com,AdBlock
+HOST-SUFFIX,beacon.qq.com,AdBlock
+HOST-SUFFIX,bugly.qq.com,AdBlock
+HOST-SUFFIX,e.qq.com,AdBlock
+HOST-SUFFIX,gdt.qq.com,AdBlock
+HOST-SUFFIX,l.qq.com,AdBlock
+HOST-SUFFIX,rqd.qq.com,AdBlock
+HOST,3gimg.qq.com,AdBlock
+HOST,btrace.qq.com,AdBlock
+HOST,fusion.qq.com,AdBlock
+HOST,mtrace.qq.com,AdBlock
+HOST,oth.eve.mdt.qq.com,AdBlock
+HOST,pgdt.gtimg.cn,AdBlock
+HOST,pingma.qq.com,AdBlock
+HOST,pingtcss.qq.com,AdBlock
+HOST,tajs.qq.com,AdBlock
+HOST,wa.gtimg.com,AdBlock
+HOST,wup.imtt.qq.com,AdBlock
+HOST,wxsnsdythumb.wxs.qq.com,AdBlock
+HOST,wxsnsdy.wxs.qq.com,AdBlock
+HOST,weixinbridge.com,AdBlock
+
+### Tunder
+HOST,adsp.xunlei.com,AdBlock
+HOST,etl.xlmc.sandai.net,AdBlock
+
+### Twitter
+HOST-SUFFIX,ads.twitter.com,AdBlock
+HOST-SUFFIX,ads-twitter.com,AdBlock
+HOST-SUFFIX,ads-api.twitter.com,AdBlock
+HOST-SUFFIX,p.twitter.com,AdBlock
+HOST-SUFFIX,scribe.twitter.com,AdBlock
+HOST-SUFFIX,syndication.twitter.com,AdBlock
+HOST-SUFFIX,syndication-o.twitter.com,AdBlock
+HOST-SUFFIX,urls.api.twitter.com,AdBlock
+
+
+# U
+### Umeng
+HOST,alog.umeng.co,AdBlock
+HOST,alog.umeng.com,AdBlock
+HOST,alogs.umeng.com,AdBlock
+HOST,alog.umengcloud.com,AdBlock
+HOST,alogs.umengcloud.com,AdBlock
+HOST,ar.umeng.com,AdBlock
+HOST,plbslog.umeng.com,AdBlock
+HOST,ulogs.umeng.com,AdBlock
+HOST,ulogs.umengcloud.com,AdBlock
+
+
+# V
+
+
+# W
+
+
+# X
+### Xiaohongshu
+HOST,apm-track.xiaohongshu.com,AdBlock
+HOST,t-ads.xiaohongshu.com,AdBlock
+
+### Xiaomi (OEM)
+HOST-SUFFIX,api.ad.xiaomi.com,AdBlock
+HOST-SUFFIX,app.chat.xiaomi.net,AdBlock
+HOST-SUFFIX,sdkconfig.ad.xiaomi.com,AdBlock
+HOST-SUFFIX,sdkconfig.ad.intl.xiaomi.com,AdBlock
+HOST-SUFFIX,admob.xiaomi.com,AdBlock
+HOST-SUFFIX,globalapi.ad.xiaomi.com,AdBlock
+HOST-SUFFIX,www.cdn.ad.xiaomi.com,AdBlock
+HOST-SUFFIX,sa.api.intl.miui.com,AdBlock
+HOST,adv.sec.intl.miui.com,AdBlock
+HOST,adv.sec.miui.com,AdBlock
+
+### Ximalaya
+HOST,ad.ximalaya.com,AdBlock
+HOST,adbs.ximalaya.com,AdBlock
+HOST,adse.ximalaya.com,AdBlock
+HOST,adse.wsa.ximalaya.com,AdBlock
+HOST,adbehavior.wsa.ximalaya.com,AdBlock
+HOST,adsebs.ximalaya.com,AdBlock
+
+
+# Y
+### Yahoo
+HOST-SUFFIX,ads.yahoo.com,AdBlock
+HOST-SUFFIX,analytics.yahoo.com,AdBlock
+HOST-SUFFIX,ads.yap.yahoo.com,AdBlock
+HOST-SUFFIX,global.adserver.yahoo.com,AdBlock
+
+### Yandex
+HOST-SUFFIX,yandexadexchange.net,AdBlock
+HOST-SUFFIX,adsdk.yandex.ru,AdBlock
+HOST-SUFFIX,appmetrica.yandex.com,AdBlock
+HOST-SUFFIX,extmaps-api.yandex.net,AdBlock
+
+### Youku
+HOST-SUFFIX,atm.youku.com,AdBlock
+HOST,ad.mobile.youku.com,AdBlock
+HOST,iyes.youku.com,AdBlock
+
+
+# Z
+### Zhihu
+//HOST-SUFFIX,tdnsv5.com,AdBlock
+HOST,crash2.zhihu.com,AdBlock
+HOST,mqtt.zhihu.com,AdBlock
+HOST,sugar.zhihu.com,AdBlock
+USER-AGENT,AVOS*,AdBlock
+
+### Zol
+HOST,apppv.zol.com.cn,AdBlock
+HOST,pvnapp.zol.com.cn,AdBlock
+
+# #
+### 58
+HOST,adshow.58.com,AdBlock
+HOST,track.58.com,AdBlock
+HOST,tracklog.58.com,AdBlock

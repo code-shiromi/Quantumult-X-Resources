@@ -1,0 +1,63 @@
+# Filter list for redirect services region to Japan proxy
+# AbemaTV
+USER-AGENT,AbemaTV*,JP Services
+HOST-SUFFIX,abema.io,JP Services
+HOST-SUFFIX,abema.tv,JP Services
+HOST-SUFFIX,ameba.jp,JP Services
+HOST-SUFFIX,hayabusa.io,JP Services
+HOST,abematv.akamaized.net,JP Services
+HOST,ds-linear-abematv.akamaized.net,JP Services
+HOST,ds-vod-abematv.akamaized.net,JP Services
+HOST,linear-abematv.akamaized.net,JP Services
+
+# Bookwalker
+HOST-SUFFIX,bookwalker.jp,JP Services
+
+# Cygames
+HOST-SUFFIX,cygames.co.jp,JP Services
+USER-AGENT,Cygames*,JP Services
+
+# DMM
+HOST-SUFFIX,dmm.co.jp,JP Services
+HOST-SUFFIX,dmm.com,JP Services
+HOST-SUFFIX,dmm-extension.com,JP Services
+
+# Reader Store
+HOST-SUFFIX,ebookstore.sony.jp,JP Services
+
+# Hulu JP
+HOST-SUFFIX,happyon.jp,JP Services
+HOST-SUFFIX,hulu.jp,JP Services
+HOST-SUFFIX,prod.hjholdings.tv,JP Services
+HOST-SUFFIX,streaks.jp,JP Services
+HOST-SUFFIX,yb.uncn.jp,JP Services
+HOST-SUFFIX,yahoo.co.jp,JP Services
+
+# Mora.jp
+HOST-SUFFIX,mora.jp,JP Services
+
+# Niconico
+USER-AGENT,Niconico*,JP Services
+HOST-SUFFIX,nicovideo.jp,JP Services
+
+# SEGA
+HOST-SUFFIX,sega.jp,JP Services
+HOST-SUFFIX,sega.com,JP Services
+HOST-SUFFIX,sega.co.jp,JP Services
+HOST-SUFFIX,pso2.jp,JP Services
+
+# U-Next
+HOST-SUFFIX,unext.jp,JP Services
+
+HOST,d151l6v8er5bdm.cloudfront.net,JP Services
+HOST-SUFFIX,prod.hjholdings.tv,JP Services
+HOST-SUFFIX,streaks.jp,JP Services
+HOST-SUFFIX,yb.uncn.jp,JP Services
+HOST-SUFFIX,dmc.nico,JP Services
+HOST-SUFFIX,dnitv.com,JP Services
+HOST-SUFFIX,dzcdn.net,JP Services
+HOST-SUFFIX,nimg.jp,JP Services
+HOST-SUFFIX,tver.jp,JP Services
+
+HOST-SUFFIX,jp,JP Services
+GEOIP,jp,JP Services
