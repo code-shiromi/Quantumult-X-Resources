@@ -44,8 +44,6 @@ HOST,iadsdk.apple.com,AdBlock
 
 ### Apple OTA (OEM)
 USER-AGENT,MobileAsset*,DIRECT
-HOST,gdmf.apple.com,AdBlock
-HOST,gdmf.apple.com.akadns.net,AdBlock
 HOST,mesu.apple.com,AdBlock
 HOST,mesu-cdn.apple.com.akadns.net,AdBlock
 HOST,mesu-cdn.origin-apple.com.akadns.net,AdBlock
