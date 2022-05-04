@@ -336,6 +336,7 @@ HOST-SUFFIX,yidianliulan.com,CN Servic
 ## Tencent
 USER-AGENT,TencentMidasConnect*,CN Services
 USER-AGENT,Accessibility*Union*,CN Services
+HOST-SUFFIX,cloud-industry-delivery.site,CN Services
 HOST-SUFFIX,isd.com,CN Services
 HOST-SUFFIX,gaapqcloud.com,CN Services
 HOST-SUFFIX,gongyi.net,CN Services
