@@ -25,6 +25,6 @@ var flag = flags.get(obj['country']);
 var ip = obj['ip'];
 var title = flag + ' ' + obj['city'];
 var subtitle = obj['city'] + ' ' + obj['org'];
-var description = 'Server location: ' + flag + ' ' + obj['city'] + obj['region'] + '\n' + 'IP: ' + ip + '\n' + 'ISP: ' + obj['org'];
+var description = 'Server location: ' + flag + ' ' + obj['region'] + '\n' + 'IP: ' + ip + '\n' + 'ISP: ' + obj['org'];
 
 $done({title, subtitle, ip, description});
