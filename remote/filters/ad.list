@@ -245,6 +245,7 @@ HOST,yt-adp.ws.126.net,AdBlock
 
 ### Niconico
 HOST-SUFFIX,api.nicovideo.com,AdBlock
+HOST-SUFFIX,ads.nicovideo.com,AdBlock
 
 # O
 ### OnePlus (OEM)
