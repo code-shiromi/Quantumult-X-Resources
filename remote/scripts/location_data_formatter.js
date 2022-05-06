@@ -1,4 +1,4 @@
-/*
+/* References: https://raw.githubusercontent.com/crossutility/Quantumult-X/master/sample-location-with-script.js, https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/IP_API.js
  * Geo-IP API provider: ipinfo.io
  * Example from http://ipinfo.io/json
 {
