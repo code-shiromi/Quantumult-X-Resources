@@ -7,6 +7,8 @@ HOST-SUFFIX,adnxs.com,AdBlock
 HOST-SUFFIX,adnyg.com,AdBlock
 HOST-SUFFIX,adtarget.tech,AdBlock
 HOST-SUFFIX,adthor.com,AdBlock
+HOST-SUFFIX,adaptv.advertising.com,AdBlock
+HOST-SUFFIX,ssp.advertising.com
 HOST-SUFFIX,adwhirl.com,AdBlock
 HOST-SUFFIX,amazon-adsystem.com,AdBlock
 HOST-SUFFIX,amobee.com,AdBlock
@@ -72,6 +74,7 @@ HOST-SUFFIX,in.treasuredata.com,AdBlock
 HOST-SUFFIX,turn.com,AdBlock
 HOST-SUFFIX,vidoomy.com,AdBlock
 HOST-SUFFIX,voicefive.com,AdBlock
+HOST-SUFFIX,adplatform.vrtcal.com,AdBlock
 HOST-SUFFIX,vungle.com,AdBlock
 HOST-SUFFIX,wedolook.com,AdBlock
 HOST-SUFFIX,wshtgame.com,AdBlock
