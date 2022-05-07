@@ -3,6 +3,8 @@
 ### adjust
 HOST-SUFFIX,adjust.com,AdBlock
 HOST-SUFFIX,adjust.io,AdBlock
+HOST-SUFFIX,app.adjust.net.in,AdBlock
+HOST-SUFFIX,app.adjust.world,AdBlock
 
 ### Amazon
 HOST-SUFFIX,amazonaax.com,AdBlock
