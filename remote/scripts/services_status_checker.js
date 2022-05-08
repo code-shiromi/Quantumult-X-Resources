@@ -729,7 +729,6 @@ async function test_viu() {
                 'Service: ' + result['ViuService'] + '\n');
 
 })().finally(() => {
-    console.log(JSON.stringify(message));
-    $notify('Finished to test.', 'Please check the detail.');
+    $notify('Test finished', 'Please read the detail.');
     $done();
 });
