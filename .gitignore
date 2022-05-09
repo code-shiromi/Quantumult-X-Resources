@@ -4,3 +4,4 @@ server.list
 privateserver.list
 server.snippet
 temp/
+optimize.py
