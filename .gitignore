@@ -1,7 +1,9 @@
 private.conf
+note.md
 note.conf
 server.list
 privateserver.list
 server.snippet
-temp/
+tmp*
+temp*
 optimize.py
